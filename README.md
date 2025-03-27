@@ -19,10 +19,44 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🚀 Skills
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /><br>
+      <b>C++</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>
+      <b>Java</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /><br>
+      <b>Bash</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>
+      <b>HTML</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>
+      <b>CSS</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+</table>
+
 
 - 💻 **Programming Languages:**  
   - C++ (STL, OOP, Data Structures, Algorithms)  
-  - Java (Spring basics, OOP, Multithreading)
+  - Java (OOP, Multithreading, Networking Programming)
+  - C# (Game Development)
+  - Python (AI and DataScience)
+  - Dart (Flutter)
 
 - 🌐 **Web & Backend Development:**  
   - HTML, CSS, JavaScript (basic)  
