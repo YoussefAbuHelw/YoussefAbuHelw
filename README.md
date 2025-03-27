@@ -59,8 +59,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Let's Connect
 
-- 🌍 [LinkedIn](#)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 🌍 [LinkedIn](www.linkedin.com/in/youssef-mohamed-14717a340)
+- 📧 [your.email@example.com](mailto:youssefmohamedseng@gmail.com)
 - 🐱 Check out my repos and feel free to collaborate!
 
 ---
